@@ -19,7 +19,7 @@ Achata a matriz em vetor, ordena com Merge Sort (divide e intercala) e regrava o
 | Algoritmo      | Melhor | Médio       | Pior        |
 |----------------|--------|-------------|-------------|
 | Insertion Sort | O(n)   | O(n²)       | O(n²)       | 
-| Merge Sort     | O(n log n)| O(n log n)  | O(n log n)  |     
+| Merge Sort     | O(n log n)| O(n log n)  | O(n log n) |     
 
 
 ### Casos de maior eficiência
